@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVUAAABQVVVVVQUAAFBVVVVVBQAAUFVVVVUFAABQVVVVVQUAAFBVVVVVBQAAUFVVVVUFAABQVVVVVQUAAFBVVVVVBQAAAFVVVVUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAACAiIiIiAgAAIiIiIiIiAAAiIiIiIiIAACIiIiIiIgAAIiIiIiIiAAAiIiIiIiIAACIiIiIiIgAAIiIiIiIiAAAiIiIiIiIAACIiIiIiIgAAIiIiIiIiAAAgIiIiIgIAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy"
+    },
+    "image3": {
+        "data": "hwQQABAAAADxAAAAAAAAAPEAAAAAAAAA8QAAAAAAAADxAAAAAAAAAB8AAAAAAAAAHwAAAAAAAAAfAAAAAAAAAB8AAAAAAAAA8QAAAAAAAADxAAAAAAAAAPEAAAAAAAAA8QAAAAAAAAAfAAAAAAAAAB8AAAAAAAAAHwAAAAAAAAAfAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "testWall"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
